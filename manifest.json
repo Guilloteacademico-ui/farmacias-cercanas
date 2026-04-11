@@ -1,0 +1,25 @@
+{
+  "name": "Farmacias Cercanas",
+  "short_name": "Farmacias",
+  "description": "Encontrá farmacias cercanas a tu ubicación con teléfono, distancia y cómo llegar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080d18",
+  "theme_color": "#080d18",
+  "orientation": "portrait",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
